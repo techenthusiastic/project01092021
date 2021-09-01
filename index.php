@@ -15,9 +15,9 @@ class HelloPDF {
 		$this->rectAbvImgL=15;
 		$this->rectBlwImgL=15;
 		$this->pageWidth=297;
-		$this->pathToImage='image2.png';
+		$this->pathToImage='img/image2.png';
 		$this->imgLength=60;
-		$this->pathToImage2='image3.png';
+		$this->pathToImage2='img/image3.png';
 		$this->imgLength2=40;
 		$this->belowText=$text;	
 		$this->fontSize=19;
